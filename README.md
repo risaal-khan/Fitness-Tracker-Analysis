@@ -1,5 +1,5 @@
 # Fitness-Tracker-Analysis ⌚🏃🚴
-This is Challenge Project from **DataDNA** Fitness Tracker Dataset Challenge! 💪🏻
+This is Challenge Project from **DataDNA** Fitness Tracker Dataset Challenge from Pomerol Partners! 💪🏻
 
 ## About 🛈
 * This is a fitness tracker product dataset consisting of different products from various brands with their specifications, ratings and reviews for the Indian market. 
